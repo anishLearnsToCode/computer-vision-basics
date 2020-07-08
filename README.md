@@ -26,7 +26,8 @@
 - [Practice Quiz: Digital Camera](week-2/digital-camera.md)
 
 ### Programming Exercises
-- [MATLAB: Color Imaging - RBG Channels]()
+- [MATLAB: Color Spaces](week-2/color_spaces.m)
+- [MATLAB: Color Imaging - RBG Channels](week-2/color_imaging.m)
 
 ## Week 3: Low, Mid & High Level Vision
 ### Programming Exercises
