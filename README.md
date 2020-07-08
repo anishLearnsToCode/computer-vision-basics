@@ -17,7 +17,7 @@
 - [Practice Quiz: MATLAB Basics](week-1/matlab-basics.md)
 
 ### Programming Exercises
-- [MATLAB: Accessing Image Sub-Regions]()
+- [MATLAB: Accessing Image Sub-Regions](week-1/accessing_image_sub_regions.m)
 
 ## Week 2: Color, Light & Image Formation
 ### Quizzes
