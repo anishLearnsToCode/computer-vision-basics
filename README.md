@@ -21,6 +21,7 @@
 
 ## Week 2: Color, Light & Image Formation
 ### Quizzes
+- [Practice Quiz: Light Sources]()
 
 ### Programming Exercises
 - [MATLAB: Color Imaging - RBG Channels]()
