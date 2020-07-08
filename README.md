@@ -13,6 +13,7 @@
 ## Week 1: Computer Vision Overview
 ### Quizzes
 - [Practice Quiz: What is Computer Vision?](week-1/what-is-computer-vision.md)
+- [Practice Quiz: Related Fields of Computer Vision](week-1/related-fields-of-computer-vision.md)
 
 ### Programming Exercises
 - [MATLAB: Accessing Image Sub-Regions]()
