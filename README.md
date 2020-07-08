@@ -3,15 +3,16 @@
 
 ## Index
 | Week | Links |
-|:----:|:-----:|
-| [Week 1](#week-1) | [[Quizzes]](#quizzes) |
-| [Week 2](#week-2) | [[Quizzes]](#quizzes-1) [[Programming Assignment]](#programming-exercises) |
-| [Week 3](#week-3) | [[Quizzes]](#quizzes-2) [[Programming Assignment]](#programming-exercises-1) |
-| [Week 4](#week-4) | [[Quizzes]](#quizzes-3) [[Programming Assignment]](#programming-exercises-2) |
+|------|-------|
+| [Week 1](#week-1-computer-vision-overview) | [[Quizzes]](#quizzes)   [[Programming Assignment]](#programming-exercises) |
+| [Week 2](#week-2-color-light--image-formation) | [[Quizzes]](#quizzes-1) [[Programming Assignment]](#programming-exercises-1) |
+| [Week 3](#week-3-low-mid--high-level-vision) | [[Quizzes]](#quizzes-2) [[Programming Assignment]](#programming-exercises-2) |
+| [Week 4](#week-4-mathematics-for-computer-vision) | [[Quizzes]](#quizzes-3) [[Programming Assignment]](#programming-exercises-3) |
 
 
 ## Week 1: Computer Vision Overview
 ### Quizzes
+- [Practice Quiz: What is Computer Vision?](week-1/what-is-computer-vision.md)
 
 ### Programming Exercises
 - [MATLAB: Accessing Image Sub-Regions]()
