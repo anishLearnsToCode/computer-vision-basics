@@ -23,6 +23,7 @@
 ### Quizzes
 - [Practice Quiz: Light Sources](week-2/light-sources.md)
 - [Practice Quiz: Pinhole Camera](week-2/pin-hole-camera.md)
+- [Practice Quiz: Digital Camera](week-2/digital-camera.md)
 
 ### Programming Exercises
 - [MATLAB: Color Imaging - RBG Channels]()
