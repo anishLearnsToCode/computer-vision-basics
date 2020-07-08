@@ -30,6 +30,10 @@
 - [MATLAB: Color Imaging - RBG Channels](week-2/color_imaging.m)
 
 ## Week 3: Low, Mid & High Level Vision
+### Quizzes
+- [Practice Quiz: Three Level Paradigm](week-3/three-level-paradigm.md)
+- [Practice Quiz: Low Level Vision](week-3/low-level-vision.md)
+
 ### Programming Exercises
 - [MATLAB: Image Gradient Magnitude]()
 
