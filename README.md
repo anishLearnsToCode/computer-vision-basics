@@ -48,5 +48,8 @@
 - [MATLAB: Image Gradient Magnitude](week-3/image_gradient_magnitude.m)
 
 ## Week 4: Mathematics for Computer Vision
+### Quizzes
+- [Practice Quiz: Algorithms](week-4/algorithms.md)
+
 ### Programming Exercises
 - [MATLAB: Aligning RBG Channels]()
