@@ -1,9 +1,13 @@
 # Computer Vision Basics ~ University at Buffalo and The State University of New York
 ![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-java.svg)
 ![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
-[![Generic badge](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
-
-[[Coursera Link]](https://www.coursera.org/learn/computer-vision-basics) [[Certificate Link]]()
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+[![platform](https://img.shields.io/badge/Platform-Coursera-1f72ff.svg)](https://www.coursera.org/learn/machine-learning)
+![uni](https://img.shields.io/badge/University-University%20at%20Buffalo-1f72ff.svg)
+![uni](https://img.shields.io/badge/University-The%20State%20University%20of%20New%20York-1f72ff.svg)
+[![instructor](https://img.shields.io/badge/Instructor--1f72ff.svg)](https://www.coursera.org/instructor/andrewng)
 
 ## Index
 | Week | Links |
