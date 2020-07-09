@@ -45,7 +45,7 @@
 - [Practice Quiz: Low Level Vision](week-3/low-level-vision.md)
 
 ### Programming Exercises
-- [MATLAB: Image Gradient Magnitude]()
+- [MATLAB: Image Gradient Magnitude](week-3/image_gradient_magnitude.m)
 
 ## Week 4: Mathematics for Computer Vision
 ### Programming Exercises
