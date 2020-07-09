@@ -4,10 +4,12 @@
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-100%25-1abc9c.svg)
 [![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
-[![platform](https://img.shields.io/badge/Platform-Coursera-1f72ff.svg)](https://www.coursera.org/learn/machine-learning)
-![uni](https://img.shields.io/badge/University-University%20at%20Buffalo-1f72ff.svg)
+[![platform](https://img.shields.io/badge/Platform-Coursera-1f72ff.svg)](https://www.coursera.org/learn/computer-vision-basics)
 ![uni](https://img.shields.io/badge/University-The%20State%20University%20of%20New%20York-1f72ff.svg)
-[![instructor](https://img.shields.io/badge/Instructor--1f72ff.svg)](https://www.coursera.org/instructor/andrewng)
+![uni](https://img.shields.io/badge/University-University%20of%20Buffalo-1f72ff.svg)
+[![instructor](https://img.shields.io/badge/Instructor-Radhakrishna%20Dasari-3f4ff.svg)](https://www.coursera.org/instructor/~30951525)
+[![instructor](https://img.shields.io/badge/Instructor-Junsong%20Yuan-3f4ff.svg)](https://www.coursera.org/instructor/~33716827)
+
 
 ## Index
 | Week | Links |
