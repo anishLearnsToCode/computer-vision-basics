@@ -1,4 +1,7 @@
 # Computer Vision Basics ~ University at Buffalo and The State University of New York
+[![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-java.svg)](http://hits.dwyl.com/anishLearnsToCode/computer-vision-basics)
+[![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)](https://www.python.org/)
+
 [[Coursera Link]](https://www.coursera.org/learn/computer-vision-basics) [[Certificate Link]]()
 
 ## Index
