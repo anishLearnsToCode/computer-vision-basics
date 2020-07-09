@@ -52,4 +52,4 @@
 - [Practice Quiz: Algorithms](week-4/algorithms.md)
 
 ### Programming Exercises
-- [MATLAB: Aligning RBG Channels]()
+- [MATLAB: Aligning RBG Channels](week-4/aligning_rgb_channels.m)
