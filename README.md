@@ -38,6 +38,7 @@
 ### Programming Exercises
 - [MATLAB: Color Spaces](week-2/color_spaces.m)
 - [MATLAB: Color Imaging - RBG Channels](week-2/color_imaging.m)
+- [MATLAB: Color Spaces - HSV Channels](week-2/hsv_channels.m)
 
 ## Week 3: Low, Mid & High Level Vision
 ### Quizzes
