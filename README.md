@@ -4,7 +4,7 @@
 ![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-1f425f.svg)
 [![platform](https://img.shields.io/badge/Coursera-Course%20Link-1f72ff.svg)](https://www.coursera.org/learn/computer-vision-basics)
 
-## Index
+## 📖 Overview
 - [Week 1](#week-1-computer-vision-overview)
 - [Week 2](#week-2-color-light--image-formation)
 - [Week 3](#week-3-low-mid--high-level-vision) 
