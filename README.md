@@ -5,13 +5,11 @@
 [![platform](https://img.shields.io/badge/Coursera-Course%20Link-1f72ff.svg)](https://www.coursera.org/learn/computer-vision-basics)
 
 ## Index
-| Week | Links |
-|------|-------|
-| [Week 1](#week-1-computer-vision-overview) | [[Quizzes]](#quizzes)   [[Programming Assignment]](#programming-exercises) |
-| [Week 2](#week-2-color-light--image-formation) | [[Quizzes]](#quizzes-1) [[Programming Assignment]](#programming-exercises-1) |
-| [Week 3](#week-3-low-mid--high-level-vision) | [[Quizzes]](#quizzes-2) [[Programming Assignment]](#programming-exercises-2) |
-| [Week 4](#week-4-mathematics-for-computer-vision) | [[Quizzes]](#quizzes-3) [[Programming Assignment]](#programming-exercises-3) |
-
+- [Week 1](#week-1-computer-vision-overview)
+- [Week 2](#week-2-color-light--image-formation)
+- [Week 3](#week-3-low-mid--high-level-vision) 
+- [Week 4](#week-4-mathematics-for-computer-vision)
+- [Certificate](#-certificate)
 
 ## Week 1: Computer Vision Overview
 ### Quizzes
@@ -47,3 +45,6 @@
 
 ### Programming Exercises
 - [MATLAB: Aligning RBG Channels](week-4/aligning_rgb_channels.m)
+
+## 🎓 [Certificate]()
+![certificate](assets/certificate.jpg)
